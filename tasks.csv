@@ -1,11 +1,3 @@
-bring me a coffee grounds from the bookshelf    I want a bag of coffee grounds. Go to the bookshelf and get one for me.
-tell me how many cleaning supplies there are on the tv stand    Can you tell me how many cleaning supplies are currently sitting on the TV stand?
-tell me how many lying persons are in the living room   I want you to count how many people who are lying down in the living room.
-navigate to the kitchen table then meet Charlie and say your teams country  I want you to go to the kitchen table. Then, I'd like you to find a person named Charlie and tell them what country your team is from.
-grasp a tuna from the sink and bring it to me,I want you to grasp a tuna    Go to the sink, take hold of the tuna, and then bring it to me.
-look for a person raising their right arm in the office and lead them to the kitchen table  I'd like you to look around the office to locate someone who is raising their right arm. Once you've identified that person, I want you to go up to them, grab their attention, and then guide them over to the kitchen table.
-tell me what is the smallest object on the storage rack I want to know the smallest object on the storage rack. Go to the storage rack and identify the smallest item that's being stored there.
-tell me how many foods there are on the bed,I want information  Go to the specified location (the bed) and count the number of food items that are present. Report back with your findings.
 take a cleaning supply from the side tables and deliver it to me	I want a cleaning supply. Go to the side tables, pick one up, and bring it to me.
 tell me what is the biggest object on the storage rack	I want you to take a look at the storage rack. Identify the largest object currently stored on it and tell what it is to me.
 take a fruit from the pantry and deliver it to Angel in the bedroom	I want you to go to the pantry, take a fruit, and then proceed to the bedroom where I understand there is someone named Angel. Once you're at the bedroom, I'd like you to deliver the fruit to Angel.
@@ -98,3 +90,11 @@ tell me the name of the person in the kitchen	I want you to go to the kitchen an
 go to the office then meet Simone and follow them	I want you to go to the office. Once there, locate Simone and follow them wherever they may lead.
 find a cleaning supply in the kitchen then grasp it and place it on the bookshelf	I want you to go to the kitchen, locate a cleaning supply, pick it up, and put it on the bookshelf.
 take the person pointing to the right from the side tables to the office	I want you to take the person who is pointing to the right from one of the side tables. Lead them to the office.
+give me a cup from the tv stand	I want a cup. Go to the TV stand and get one for me.
+tell the name of the person at the bookshelf to the person at the dishwasher	I want you to go to the bookshelf. Find out who is standing near it. Then, go to the person who is operating the dishwasher. I want you to tell them the name of the person you found at the bookshelf.
+locate a juice pack in the bedroom then get it and place it on the storage rack	I want you to go to the bedroom, find a juice pack, pick it up, and put it on the storage rack.
+tell me what is the heaviest object on the sink	I want to know the heaviest object currently sitting on your sink. Go take a look at your sink right now, tell me what's the heaviest thing you see there?
+tell me how many cleaning supplies there are on the bedside table	I want to know how many cleaning supplies are currently sitting on the bedside table. Please report back with this information.
+follow Robin from the entrance to the bathroom	I want you to follow Robin. Start at the entrance of the location or area where we are currently situated, then track Robin's movements as they make their way to the bathroom.
+locate a lemon in the living room then take it and give it to me	I want you to search for a lemon in the living room. Once you've found it, pick it up and bring it to me.
+navigate to the living room then find an orange and fetch it and deliver it to Morgan in the bathroom	I want you to go to the living room. Find an orange. Pick up the orange and take it with you. Then, I want you to find Morgan and go to the bathroom. Give the orange to Morgan.
