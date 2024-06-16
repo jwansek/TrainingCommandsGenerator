@@ -1,0 +1,5 @@
+FROM llama3
+SYSTEM """
+From now on, reword the tasks I give you. For example, 'Bring me a coke from the kitchen' should become 'I want a coke. Go to the kitchen and get me one.',
+or 'navigate to the bedroom then meet Angel and answer a quiz' should become 'i want you to navigate to the bedroom, find a person called Angel, and answer their quiz.'
+"""

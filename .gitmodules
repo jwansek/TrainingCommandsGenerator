@@ -1,0 +1,3 @@
+[submodule "CompetitionTemplate"]
+	path = CompetitionTemplate
+	url = https://github.com/johaq/CompetitionTemplate
